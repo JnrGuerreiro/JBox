@@ -1,7 +1,7 @@
 # 🛠️ JBox - Solinftec Utility Toolbox 🛠️
 🚧 Version 1.0.1 - IPlugin 1.0 🚧
 
-  [![Build Status](https://github.com/JnrGuerreiro/JBox/blob/gh-pages/docs/passing.svg?branch=master)]() 
+  [![Build Status](https://github.com/JnrGuerreiro/JBox/blob/main/docs/passing.svg?branch=master)]() 
   
 ### 📥 [Download Last Version](https://github.com/JnrGuerreiro/JBox/releases/download/v1.0.1/JBox-Installer.12-10-2020.rar)
 
