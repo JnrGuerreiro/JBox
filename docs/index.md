@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+### 🛠️ JBox - Solinftec Utility Toolbox 
 
-You can use the [editor on GitHub](https://github.com/JnrGuerreiro/JBox/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+🚧 Version 1.0.1 - IPlugin 1.0 🚧
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 📥 [Download Last Version](https://github.com/JnrGuerreiro/JBox/releases/download/v1.0.1/JBox-Installer.12-10-2020.rar)
 
-### Markdown
+### 🖋️ [Releases](https://github.com/JnrGuerreiro/JBox/releases)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 🧰 Plugins
+IPlugins included on Version 1.0.1 [12/Oct/2020]
 
-```markdown
-Syntax highlighted code block
+| IPlugin | Description|
+| ------ | ------ |
+| 🔎 LogViewer|  View and Filter Log Files |
+| 📑 DiffChecker| Check Difference Between two Text Files |
+| 📚 KijoExtractor | Extract KIJOS from OBC's SD Card file |
+| ✈️ BTM | Access to BTM Portal |
+| 💸 TOTVS| Access to TOTVS Portal |
 
-# Header 1
-## Header 2
-### Header 3
+### 🚨 Bugs & Suggestions 💡
+Any Bugs spotted and suggestions can be sent to [My Email](mailto:claudemir.guerreiro@solinftec.com?cc=jnrguerreiro@live.com&subject=JBox%20V1.0.1%20Suggestions)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JnrGuerreiro/JBox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
